@@ -1,0 +1,45 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Build
+/Demo/Build
+.vs
+/Deps/DirectX
+/Deps/cppwinrt
+/Deps/cppwinrt
+/Deps/FreetypeLib
+
+*.obj
+*.idb
+*.pdb
+*.opendb
+*.db
+*.png
+*.jpg
+*.mtl
+*.tlog
+*.log
+*.xml
+/Samples/Assets/Common/Models/CrytekSponza
+/Bin/DebugX86
+/Samples/Assets/Common/Sounds/Faded.mp3
+/Samples/Assets/Common/Sounds
+*.user
+*.filters
+
+!logo.png
+/Bin
+*.enc
+/External/CmakeProjects
+/External/CmakeProjects
+/Samples/Assets/Common/Models/CrytekCyborg
+/Samples/Build/DebugX64
+/Nuclear Engine/Build/DebugX64
+/External/FMOD
+/External/PhysX/include
+/Samples/Assets/Common/Models
+/Nuclear Editor/Build/DebugX64/Nuclear Editor.vcxproj.FileListAbsolute.txt
+/Nuclear Editor/Build/DebugX64
+/ScriptTest/bin/Debug/netcoreapp3.1
+/ScriptTest/obj
